@@ -1,0 +1,58 @@
+Starting
+Sucessfuly add the csv : cybersecurity_attacks.csv
+Feature 1 : Timestamp, feature erased successfully
+Feature 2 : Source IP Address, feature erased successfully
+Feature 3 : Destination IP Address, feature erased successfully
+Feature 4 : Source Port, feature erased successfully
+Feature 5 : Destination Port, feature erased successfully
+Feature 6 : Protocol, convert to numerical : ICMP = 0, UDP = 1, TCP = 2
+Feature 7 : Packet Length, reduce from 0->2000 to 0->20
+Feature 8 : Packet Type, convert to numerical : Data->0, Control->1
+Feature 9 : Traffic Type, convert to numerical : HTTP->0, DNS->1, FTP->2
+Feature 10 : Payload Data, is not useful and is deleted
+Feature 11 : Malware Indicators, convert to numerical : NaN->0, IoC Detected->1
+Feature 12 : Anomaly Scores, seem good so no change
+Feature 13 : Alerts/Warnings, convert to numerical : NaN->0, IoC Alert Triggered->1
+Feature 14 : Attack Type, convert to numerical : Malware->0, DDoS->1, Intrusion->2
+Feature 15 : Attack Signature, convert to numerical : Known Pattern A->0, Known Pattern B->1
+Feature 16 : Action Taken, convert to numerical : Logged->0, Blocked->1, Ignored->2
+Feature 17 : Severity Level, convert to numerical : Low->0, Medium->1, High->2
+Feature 18 : User Information, is not useful so erased
+Feature 19 : Device Information, is not useful so erased
+Feature 20 : Network Segment, convert to numerical : Segment A->0, Segment B->1, Segment C->2
+Feature 21 : Geo-location Data, is not useful so erased
+Feature 22 : Proxy Information, is not useful so erased
+Feature 23 : Firewall Logs, is not useful so erased
+Feature 24 : IDS/IPS Alerts, is not useful so erased
+Feature 25 : Log Source, convert to numerical : Server->0, Firewall->1
+Sucessfuly created csv and log txt at dataSet
+Sucessfuly saved csv at dataSet\dataSet.csv
+Starting
+Sucessfuly add the csv : cybersecurity_attacks.csv
+Feature 1 : Timestamp, feature erased successfully
+Feature 2 : Source IP Address, feature erased successfully
+Feature 3 : Destination IP Address, feature erased successfully
+Feature 4 : Source Port, feature erased successfully
+Feature 5 : Destination Port, feature erased successfully
+Feature 6 : Protocol, convert to numerical : ICMP = 0, UDP = 1, TCP = 2
+Feature 7 : Packet Length, reduce from 0->2000 to 0->20
+Feature 8 : Packet Type, convert to numerical : Data->0, Control->1
+Feature 9 : Traffic Type, convert to numerical : HTTP->0, DNS->1, FTP->2
+Feature 10 : Payload Data, is not useful and is deleted
+Feature 11 : Malware Indicators, convert to numerical : NaN->0, IoC Detected->1
+Feature 12 : Anomaly Scores, seem good so no change
+Feature 13 : Alerts/Warnings, convert to numerical : NaN->0, IoC Alert Triggered->1
+Feature 14 : Attack Type, convert to numerical : Malware->0, DDoS->1, Intrusion->2
+Feature 15 : Attack Signature, convert to numerical : Known Pattern A->0, Known Pattern B->1
+Feature 16 : Action Taken, convert to numerical : Logged->0, Blocked->1, Ignored->2
+Feature 17 : Severity Level, convert to numerical : Low->0, Medium->1, High->2
+Feature 18 : User Information, is not useful so erased
+Feature 19 : Device Information, is not useful so erased
+Feature 20 : Network Segment, convert to numerical : Segment A->0, Segment B->1, Segment C->2
+Feature 21 : Geo-location Data, is not useful so erased
+Feature 22 : Proxy Information, is not useful so erased
+Feature 23 : Firewall Logs, is not useful so erased
+Feature 24 : IDS/IPS Alerts, is not useful so erased
+Feature 25 : Log Source, convert to numerical : Server->0, Firewall->1
+Sucessfuly created csv and log txt at dataSet
+Sucessfuly saved csv at dataSet\newDataSet.csv
